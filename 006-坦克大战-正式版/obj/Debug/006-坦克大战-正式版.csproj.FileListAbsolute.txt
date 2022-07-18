@@ -1,0 +1,10 @@
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\bin\Debug\006-坦克大战-正式版.exe.config
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\bin\Debug\006-坦克大战-正式版.exe
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\bin\Debug\006-坦克大战-正式版.pdb
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\_006_坦克大战_正式版.Properties.Resources.resources
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\006-坦克大战-正式版.csproj.GenerateResource.cache
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\006-坦克大战-正式版.csproj.CoreCompileInputs.cache
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\006-坦克大战-正式版.exe
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\006-坦克大战-正式版.pdb
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\_006_坦克大战_正式版.Form1.resources
+E:\代码练习\C家族\C#\siki学习第三季\006-坦克大战-正式版\obj\Debug\006-坦克大战-正式版.csproj.AssemblyReference.cache
